@@ -1,4 +1,4 @@
-# GloboxAB_testing_MS
+# GloboxAB_testing_MasterSchool
 
 The project features three stages:   
 
