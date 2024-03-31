@@ -20,6 +20,11 @@
      4. Globox_ab_statistical_analysis.xlsx - data extracted by SQL, code in sql_script under main objectives + statistical analysis.
      5. Globox_AB_Testing.docx - Globox A/B testing data analysis written_report.
      6. Globox_script.sql - SQL script used to extract data for analysis for current project.
+
+## Links to Spreadsheets:
+
+    [1. Globox AB statistical Analysis](https://docs.google.com/spreadsheets/d/1tCCBiMVt-rneE3ULwDtkQhvI_wwbiUvy/edit?usp=drive_link&ouid=115094650836316658046&rtpof=true&sd=true)
+
      
 ## Links to Tableau Dashboard:
 
