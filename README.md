@@ -1,5 +1,10 @@
 # GloboxAB_testing_MasterSchool
 
+      GloBox is an online marketplace that specializes in sourcing unique and high-quality products from around the world.
+      Primarily known amongst its customer base for boutique fashion items and high-end decor products.
+      However, their food and drink offerings have grown tremendously in the last few months, 
+      and the company wants to bring awareness to this product category to increase revenue.
+      
 ## The project features three stages:   
 
      1. Extraction of user-level aggregated dataset using SQL. 
@@ -14,7 +19,7 @@
      3. Globox_AB_slides.pptx - slides for a video presentation relaying the results.
      4. Globox_ab_statistical_analysis.xlsx - data extracted by SQL, code in sql_script under main objectives + statistical analysis.
      5. Globox_AB_Testing.docx - Globox A/B testing data analysis written_report.
-     6. sql_script - SQL script used to extract data for analysis for current project.
+     6. Globox_script.sql - SQL script used to extract data for analysis for current project.
      
 ## Links to Tableau Dashboard:
 
