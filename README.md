@@ -1,4 +1,4 @@
-# GloboxAB_testing_MasterSchool
+# Globox AB testing Master School
 
       GloBox is an online marketplace that specializes in sourcing unique and high-quality products from around the world.
       Primarily known amongst its customer base for boutique fashion items and high-end decor products.
