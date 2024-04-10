@@ -17,7 +17,7 @@
 
   1. Globox_AB_Testing.pdf - project overview.
   2. Globox_AB_Testing.docx - Globox A/B testing data analysis written_report.
-  3. [Globox AB Testing slides](https://docs.google.com/presentation/d/1fXBMylQ5OY6LPUwaXePQwYt9_ooGaREW/edit?usp=drive_link&ouid=115094650836316658046&rtpof=true&sd=true) - 
+  3. [Globox AB Testing slides](https://docs.google.com/presentation/d/1fXBMylQ5OY6LPUwaXePQwYt9_ooGaREW/edit#slide=id.p1) - 
   slides for a video presentation relaying the results.
   4. Globox_script.sql - SQL script used to extract data for analysis for current project.
 
